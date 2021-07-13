@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Ceddyp19
+- 👀 I’m interested in ...
+motorcycles, code, anime, biology...etc.
+- 🌱 I’m currently learning ...
+java
+- 💞️ I’m looking to collaborate on ...
+anything
+- 📫 How to reach me ...
+linkedIn: https://www.linkedin.com/in/cedricpattonjr/
+<!---
+Ceddyp19/Ceddyp19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
